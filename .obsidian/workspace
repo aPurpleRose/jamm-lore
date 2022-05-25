@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "68e1309695255bcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3345f7257e0942e8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Agility Orb.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "326497612702b79b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b852df8380194c09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3acb4823bf16cf58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa90079f212d34b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "862beb9601c96dd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9cb4e66831a0b67",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349
+  },
+  "right": {
+    "id": "62dfc105d3cbe8ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "70953c855888b8aa",
+        "type": "tabs",
+        "dimension": 53.01204819277109,
+        "children": [
+          {
+            "id": "80e22990d4d63fe5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Agility Orb.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5046c2f2d260dea9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7568300eabdd3cf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Agility Orb.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b457251bfdffa0b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1a4993bb0a491d9a",
+        "type": "tabs",
+        "dimension": 46.98795180722892,
+        "children": [
+          {
+            "id": "3c0d41bed13cb214",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 450
+  },
+  "active": "3345f7257e0942e8",
+  "lastOpenFiles": [
+    "Agility Orb.md",
+    "Amethyst Chestplate Agility.md",
+    "Astral Altar.md",
+    "Dark Amethyst.md",
+    "Orb.md",
+    "Amethyst.md",
+    "Orbs.md",
+    "LiveOverflow - The Secret step-by-step Guide to learn Hacking (for real).md",
+    "LiveOverflow.md",
+    "CSCG 2022 pwn2.md"
+  ]
+}

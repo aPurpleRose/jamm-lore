@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Datenbank",
+      "path": "Datenbank.md"
+    },
+    {
+      "type": "file",
+      "title": "core",
+      "path": "core.md"
+    },
+    {
+      "type": "file",
+      "title": "unread resources",
+      "path": "unread resources.md"
+    },
+    {
+      "type": "file",
+      "title": "LiveOverflow - The Secret step-by-step Guide to learn Hacking (for real)",
+      "path": "LiveOverflow - The Secret step-by-step Guide to learn Hacking (for real).md"
+    }
+  ]
+}
